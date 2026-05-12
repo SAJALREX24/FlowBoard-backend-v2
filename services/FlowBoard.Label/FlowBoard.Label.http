@@ -1,0 +1,6 @@
+@FlowBoard.Label_HostAddress = http://localhost:5027
+
+GET {{FlowBoard.Label_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
